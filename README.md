@@ -26,7 +26,13 @@ I tryied to run BO Cold War from Battlenet
 Played multiplayer, nuketown 24/7. Status: Working fine, no flickering. (textures HIGH, VRAM target: 70%)
 Worked for 8 minutes, then the game crashed. 
 > Notes: I didnt monitored it in the radeon software or afterburner.
-> 
+
+I tryied running Warzone in safe mode.
+Played plunder, BR and Resurgense without problems.
+
+Noticed RazerSynapse was taking 4% of RAM usage
+I finalized all the process related with Razer (including one with some chroma effects)
+I got no display. Only the resource monitor and task manager. I exited both windows and then I got no display. 
 
 
 
