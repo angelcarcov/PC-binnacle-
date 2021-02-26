@@ -19,5 +19,14 @@ I restarted, no problems, boot load time as usual (1 minute)
 PC worked fine with Zoom
 Turned off PC 
 > Notes: I didnt cheked the resource monitor.
->
+
+## Friday, February 26, 2021. (13:35 am)
+Booted PC, load time as usual.
+I tryied to run BO Cold War from Battlenet 
+Played multiplayer, nuketown 24/7. Status: Working fine, no flickering. (textures HIGH, VRAM target: 70%)
+Worked for 8 minutes, then the game crashed. 
+> Notes: I didnt monitored it in the radeon software or afterburner.
+> 
+
+
 
