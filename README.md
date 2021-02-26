@@ -11,5 +11,13 @@ After that, HDD stood at 5% average with some 16%-60% spikes for about 5 minutes
 I downloaded Zooom directly from chrome. 
 Turned off PC.
 
+## Friday, February 26, 2021. (11:04 am)
 
+Got some inusual boot time load. (About 5 minutes).
+Got some problems by trying to connect the sennheiser 3.5 mic.
+I restarted, no problems, boot load time as usual (1 minute) 
+PC worked fine with Zoom
+Turned off PC 
+> Notes: I didnt cheked the resource monitor.
+>
 
