@@ -36,4 +36,21 @@ I got no display. Only the resource monitor and task manager. I exited both wind
 _Turned off PC_
 
 
+## Friday, February 26, 2021. (23:05 pm)
+_Booted PC_, load time as usual.
+I ran TimesSpy (1 of 3)
+At middle of the benchmark I got a **blackout** in mi house. (No worries I've got a 2500watts voltage regulator.
+I hitted the off button from the Voltage Regulator.
+
+## Friday, February 26, 2021. (23:15 pm)
+_Booted PC_, load time as usual.
+I waited about 5 minutes for windows to warm motors up.
+Got eyes into Task Manager and Resource monitor. Status: 95-100% usage for about 5 minutes, due mainly to file Svchost PID 2084.
+After that, PC seemed to work fine, hdd 0-5% for about 10 minutes, with just one 30 sec 100% usage spike.
+_Restarted PC_
+
+## Friday, February 26, 2021. (23:15 pm)
+PC took a little bit longer than usual. (About 1-2 minutes more)
+I ran the 3 benchmarks with the professional method. Worked without problems.
+TimeSpy status: Excelent.
 
