@@ -53,4 +53,19 @@ _Restarted PC_
 PC took a little bit longer than usual. (About 1-2 minutes more)
 I ran the 3 benchmarks with the professional method. Worked without problems.
 TimeSpy status: Excelent.
+_Turned off PC_ 
 
+
+## Thuesday, March 1, 2021. (11:50 pm)
+_Booted PC_, PC took a little bit longer than usual, (About 1-2 minutes more)
+Revised Task Manager. 100 % usage. *Strange* process occurred (**Sr.Tasks.exe PID 15564**)
+It remained 100% for about 10 minutes.
+PC worked as always.
+_Turned off PC_ 
+
+## Friday, March 4, 2021. (11:50 pm)
+_Booted PC_, PC took a little bit longer than usual, (About 1-2 minutes more)
+Revised Task Manager. 100 % usage. *Expected process* occurred (**svchost.exe LocalSystemNetworkRestricted PID 2440**)
+It remained 100% for about 4 minutes.
+PC worked as always.
+_Turned off PC_ 
